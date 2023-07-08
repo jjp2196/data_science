@@ -20,3 +20,5 @@ That said, pull requests from prospective employers or from students looking to 
 Inspirations for the Material
 [Columbia University, Computer Science Alum 2023](https://datascience.columbia.edu/education/#:~:text=Ours%20is%20one%20of%20the,science%20programs%20in%20the%20world.)
 [General Assembly, Data Science Alum 2020](https://generalassemb.ly/education/data-science/new-york-city)
+[Inspirit AI, Instructor 2021-2023](https://www.inspiritai.com/)
+["Artificial Intelligence, A Modern Approach", Tony Dear](https://aima.cs.berkeley.edu/)
