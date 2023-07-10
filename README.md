@@ -15,10 +15,10 @@ Inspirations for the Material
 4. ["Artificial Intelligence, A Modern Approach", Tony Dear](https://aima.cs.berkeley.edu/)
 
 # Coding Projects Overview
-1. Deteminining Popularity of Rising Pop Music Artists with Scraped Spotify Data and NLP Sentiment Analysis (2020)
-2. Project 5: Estimating Flood Depths of Submerged Vehicles with Convolutional Neural Networks (2020)
+1. Deteminining Popularity of Rising Pop Music Artists with Decision Tree Classification
+2. Project 5: Estimating Flood Depths of Submerged Vehicles with CNNs
 
-## Deteminining Popularity of Rising Pop Music Artists with Spotify Data and NLP Sentiment Analysis (2020)
+## Deteminining Popularity of Rising Pop Music Artists with Decision Tree Classification
 
 ### Problem Statement
 1. Spotify uses its popularity parameter in order to rank songs, albums, and artists. This "popularity" metric is based on how often users stream songs from Spotify. 
@@ -61,7 +61,7 @@ Lyric Clustering Processing (Completed Stretch Goal)
 6. First (for Lyrics), I use Spacey to convert the lyrics of the 300 most common words in each song of ordered_playlist into vectors. These word vectors are arranged by their similarity to one another on a large coordinate plane. 
 7. Finally, I try to evaluate whether there is a correlation between a group of lyrics' content and their artist's stream-popularity. I conclude that yes, there IS a clear relationship between a song's stream-popularity and lyrical content. Though, for further research, I would like to pursue Hypothesis Testing to be certain of this relationship being a correlation at a statistically significant level.
 
-## Project: Estimating Flood Depths of Submerged Vehicles with Convolutional Neural Networks (cNN)
+## Project: Estimating Flood Depths of Submerged Vehicles with CNNs
 
 ### Problem Statement
 
