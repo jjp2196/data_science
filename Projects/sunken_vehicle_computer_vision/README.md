@@ -1,4 +1,4 @@
-# Project 5: Estimating Flood Depths of Submerged Vehicles with Convolutional Neural Networks (cNN)
+# Estimating Flood Depths of Submerged Vehicles with Convolutional Neural Networks (cNN)
 
 ### By Data Scientists Nikhil Lonberg, Tony Lucci, Erik Lindberg, Lydia Kajeckas, and James Pecore
 
