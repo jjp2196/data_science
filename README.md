@@ -9,10 +9,10 @@ Individual Python Exercises that demonstrate various mathematical concepts that 
 ## License
 
 Inspirations for the Material
-[Columbia University, Computer Science Alum 2023](https://datascience.columbia.edu/education/#:~:text=Ours%20is%20one%20of%20the,science%20programs%20in%20the%20world.)
-[General Assembly, Data Science Alum 2020](https://generalassemb.ly/education/data-science/new-york-city)
-[Inspirit AI, Instructor 2021-2023](https://www.inspiritai.com/)
-["Artificial Intelligence, A Modern Approach", Tony Dear](https://aima.cs.berkeley.edu/)
+1. [Columbia University, Computer Science Alum 2023](https://datascience.columbia.edu/education/#:~:text=Ours%20is%20one%20of%20the,science%20programs%20in%20the%20world.)
+2. [General Assembly, Data Science Alum 2020](https://generalassemb.ly/education/data-science/new-york-city)
+3. [Inspirit AI, Instructor 2021-2023](https://www.inspiritai.com/)
+4. ["Artificial Intelligence, A Modern Approach", Tony Dear](https://aima.cs.berkeley.edu/)
 
 # Coding Projects Overview
 1. Deteminining Popularity of Rising Pop Music Artists with Scraped Spotify Data and NLP Sentiment Analysis (2020)
