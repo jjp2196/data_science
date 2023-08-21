@@ -18,7 +18,7 @@ Inspirations for the Material
 1. Deteminining Popularity of Rising Pop Music Artists with Decision Tree Classification
 2. Project 5: Estimating Flood Depths of Submerged Vehicles with CNNs
 
-## Deteminining Popularity of Rising Pop Music Artists with Decision Tree Classification
+## Project: Deteminining Popularity of Rising Pop Music Artists with Decision Tree Classification
 
 ### Problem Statement
 1. Spotify uses its popularity parameter in order to rank songs, albums, and artists. This "popularity" metric is based on how often users stream songs from Spotify. 
