@@ -1,4 +1,4 @@
-# (Capstone) Project 6: Determining Popularity of Rising Pop Music Artists with Scraped Spotify Data and NLP Sentiment Analysis
+# Determining Popularity of Rising Pop Music Artists with Scraped Spotify Data and NLP Sentiment Analysis
 
 ## Problem Statement
 1. Spotify uses its popularity parameter in order to rank songs, albums, and artists. This "popularity" metric is based on how often users stream songs from Spotify.
