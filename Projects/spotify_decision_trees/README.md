@@ -55,27 +55,27 @@ Lyric Clustering Processing (Completed Stretch Goal)
 
 ## Project 6 Visualizations:
 
-![](./capstone_images/2_popularity_by_distribution.png)
+![](./2_popularity_by_distribution.png)
 
 ---
 
-![](./capstone_images/3_energy_loudness_danceability.png)
+![](./3_energy_loudness_danceability.png)
 
 ---
 
-![](./capstone_images/4_liveness_tempo.png)
+![](./4_liveness_tempo.png)
 
 ---
 
-![](./capstone_images/5_regression.png)
+![](./5_regression.png)
 
 ---
 
-![](./capstone_images/6_classification.png)
+![](./6_classification.png)
 
 ---
 
-![](./capstone_images/7_clustering.png)
+![](./7_clustering.png)
 
 ---
 
