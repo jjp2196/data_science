@@ -28,7 +28,7 @@ So:
 
 ## Executive Summary
 
-![](./capstone_images/1_exec_sum.png)
+![](./spotify_images/1_exec_sum.png)
 
 Spotify Song Attributes
 1. First (for Song Attributes), I scrape ten different playlists off of Spotify full of 700 "Rising" songs from 2020. I clean the data, removing NAN values and duplicates for the songs. Spotify has a built in popularity function based on number of streams. This is ordered_playlist. Then, I import a dataframe of 232,000 songs from 2018-2020 made by a prominent Kaggle musical data scientist, Zaheen Hamidani, to the small dataset. I clean this data, dropping NAN values and duplicates. Next, I concatenate this songlist to ordered_songlist. At last, I name this large dataframe of roughly 150,000 songs as giant_ordered_playlist.
@@ -55,27 +55,27 @@ Lyric Clustering Processing (Completed Stretch Goal)
 
 ## Project 6 Visualizations:
 
-![](./2_popularity_by_distribution.png)
+![](./spotify_images/2_popularity_by_distribution.png)
 
 ---
 
-![](./3_energy_loudness_danceability.png)
+![](./spotify_images/3_energy_loudness_danceability.png)
 
 ---
 
-![](./4_liveness_tempo.png)
+![](./spotify_images/4_liveness_tempo.png)
 
 ---
 
-![](./5_regression.png)
+![](./spotify_images/5_regression.png)
 
 ---
 
-![](./6_classification.png)
+![](./spotify_images/6_classification.png)
 
 ---
 
-![](./7_clustering.png)
+![](./spotify_images/7_clustering.png)
 
 ---
 
