@@ -15,51 +15,7 @@ Inspirations for the Material
 4. ["Artificial Intelligence, A Modern Approach", Tony Dear](https://aima.cs.berkeley.edu/)
 
 # Coding Projects Overview
-1. Deteminining Popularity of Rising Pop Music Artists with Decision Tree Classification
-2. Project 5: Estimating Flood Depths of Submerged Vehicles with CNNs
-
-## Project: Deteminining Popularity of Rising Pop Music Artists with Decision Tree Classification
-
-### Problem Statement
-1. Spotify uses its popularity parameter in order to rank songs, albums, and artists. This "popularity" metric is based on how often users stream songs from Spotify. 
-
-2. But how does this stream-popularity metric compare with other metrics for popularity? 
-    - This metric only shows how popular very recent artists are in general (not popularity according to genre or popularity by song/lyrical content). 
-
-3. As a result, historically VERY popular classic songs (by Earth, Wind, & Fire, The Beatles, and other "classic groups") are overlooked. Additionally, artists who are VERY popular in their genre become ignored due to higher weight artists from higher popularity genres like "pop." 
-
-4. We need a new metric for popularity. In fact, we need more than one new popularity metric and a logic to guide our new metrics for popularity, in addition to a way of evaluating our old metric's effectiveness.
-
-So:
-
-1. Can we predict a song's popularity by stream count accurately using Regression Modeling?
-
-2. Can we predict whether a song is popular by stream count using Classification Modeling?
-
-3. What can we say about a song's popularity based on aspects of the music itself: like danceability, energy, and acousticness? 
-
-4. What can we say about a song’s popularity based on the content of an artist's lyrics--the verbal connotations and vibe of the poetry? 
-
-5. How do each of these factors influence our ability to predict the popularity of an artist or song?
-
-6. Finally, when using Regression modeling, Classification modeling, and NLP Clustering to predict the popularity of a musical artist, how can evaluate whether or not to trust Spotify's ranking of popularity? 
-
-7. What other metrics of popularity should we define and recommend that Spotify and other top streaming sites adopt? What is our reasoning?
-
-### Executive Summary
-Spotify Song Attributes
-1. First (for Song Attributes), I scrape ten different playlists off of Spotify full of 700 "Rising" songs from 2020. I clean the data, removing NAN values and duplicates for the songs. Spotify has a built in popularity function based on number of streams. This is ordered_playlist. Then, I import a dataframe of 232,000 songs from 2018-2020 made by a prominent Kaggle musical data scientist, Zaheen Hamidani, to the small dataset. I clean this data, dropping NAN values and duplicates. Next, I concatenate this songlist to ordered_songlist. At last, I name this large dataframe of roughly 150,000 songs as giant_ordered_playlist.
-2. Second, I build a wide variety of Regression Models that try to accurately predict a song's "stream-popularity" based off of the song's musical attributes (like energy, valence, modality, time signature, and other characteristics). I will also use many different Classification Models to measure whether we can predict that a song is popular (above 75% popularity on a scale of 0 to 100) based off of these same song attributes. 
-3. Finally, I interpret the differences between the stream-based popularity metric and this song-attribute-based popularity metric, generating reasons for incongruities and making conclusions about the effectiveness of our popularity metric.
-
-Genius Lyric Attributes
-3. First (for Lyric Attributes), I use the shorter list of playlist songs (just 700 songs from ordered_playlist) from Spotify as a basis for which lyrics to scrape. I scrape the lyrics for each of these songs off of Genius' lyric library.
-4. Second, I use sentiment analysis and NLP (CountVectorizer) to perform EDA on the most common words/sentiments for each song.
-5. Finally, I try to evaluate whether there is a correlation between most common words and song sentiment with its popularity. 
-
-Lyric Clustering Processing (Completed Stretch Goal)
-6. First (for Lyrics), I use Spacey to convert the lyrics of the 300 most common words in each song of ordered_playlist into vectors. These word vectors are arranged by their similarity to one another on a large coordinate plane. 
-7. Finally, I try to evaluate whether there is a correlation between a group of lyrics' content and their artist's stream-popularity. I conclude that yes, there IS a clear relationship between a song's stream-popularity and lyrical content. Though, for further research, I would like to pursue Hypothesis Testing to be certain of this relationship being a correlation at a statistically significant level.
+1. Estimating Flood Depths of Submerged Vehicles with CNNs
 
 ## Project: Estimating Flood Depths of Submerged Vehicles with CNNs
 
