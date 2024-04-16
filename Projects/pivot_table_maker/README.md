@@ -9,14 +9,14 @@ This repository contains Python code for analyzing sales data and generating a s
 
 # File Structure
 The repository has the following structure:
-│
-├── data                           # Python script for sales data analysis
-├──── sample_submission.csv        # Sample sales data in CSV format
-├──── test.csv                     # Test sales data in CSV format
-├──── train.csv                    # Train sales data in CSV format
-├── pivot_table_maker.ipynb        # Jupyter File for Python Code
-├── pivot_table_maker.py           # Python File for Python Code
-└── README.md                      # README file
+
+1. data                           # Python script for sales data analysis
+- sample_submission.csv        # Sample sales data in CSV format
+- test.csv                     # Test sales data in CSV format
+- train.csv                    # Train sales data in CSV format
+2. pivot_table_maker.ipynb        # Jupyter File for Python Code
+3. pivot_table_maker.py           # Python File for Python Code
+4. README.md                      # README file
 
 # Contributing
 
